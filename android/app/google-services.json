@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262767522995",
+    "project_id": "sound-d1394",
+    "storage_bucket": "sound-d1394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262767522995:android:7b0e8c3a881c3592cbacc6",
+        "android_client_info": {
+          "package_name": "com.example.sound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262767522995-rfc5mvk4r4urp6drvuf6ja340l26smeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOaymtPwVid3OjA2ORsd1nFohKmV5m0Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262767522995-rfc5mvk4r4urp6drvuf6ja340l26smeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
